@@ -1,4 +1,4 @@
-# PROJETO_FINAL
+# PROJETO FINAL
 Este é o repositório destinado ao projeto final estipulado pela professora Beatriz Cristina usado para exemplificar a síntese dos conhecimentos alcançados neste curso em Python, além de implementar a interface gráfica em meio a este projeto.
 
 # CALCULADORA IMC PETS🚀
