@@ -1,7 +1,7 @@
 # PROJETO_FINAL
 Este é o repositório destinado ao projeto final estipulado pela professora Beatriz Cristina usado para exemplificar a síntese dos conhecimentos alcançados neste curso em Python, além de implementar a interface gráfica em meio a este projeto.
 
-# Título do repositório🚀
+# CALCULADORA IMC PETS🚀
 Assim como acontece com os seres humanos, a manutenção do peso ideal dos nossos animais de estimação é um fator que contribui para um estado de saúde plena e ideal. 
 Este simples programa visa demonstrar de forma interativa alguns detalhes que influenciam o peso de cães e gatos e também como monitorar e melhorar alguns de seus hábitos.
 Afinal de contas, quem ama cuida!
